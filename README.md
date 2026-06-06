@@ -92,5 +92,5 @@ Users can dynamically filter dashboard insights by:
 
 ## Outcome
 
-This dashboard enables HR professionals and business leaders to monitor workforce health, identify attrition drivers, and make informed decisions to improve employee retention and organisational performance. Dashboard Screenshot -> 
+This dashboard enables HR professionals and business leaders to monitor workforce health, identify attrition drivers, and make informed decisions to improve employee retention and organisational performance. Dashboard Screenshot -> https://github.com/joyoti29/HR-Analytics-Dashboard/blob/main/Snapshot_Dashboard.png
 
